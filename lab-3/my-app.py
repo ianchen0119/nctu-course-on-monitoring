@@ -8,8 +8,8 @@ REQUESTS_COUNTER = Counter('myapp_requests', 'Demo counter metric to record requ
 
 app_info = {
   'app': 'myapp',
-  'author' : 'Jeremy Lin',
-  'author_email': 'alucard.lin@gmail.com',
+  'author' : 'Ian Chen',
+  'author_email': 'ychen.desl@gmail.com',
   'version' : '0.0.1'
 }
 
